@@ -1,3 +1,10 @@
+# I Decided to Learn Rails
+
+I chose to learn Ruby and Rails, largely because it seemed an approachable object-oriented language with a supportive and welcoming community. I was excited that the course highlighted both functional programming and test-driven development.
+
+Aside from a full-on technical skills dump, one of my biggest takeaways from the course was increased confidence in my ability to use "technical sophistication" to solve problems even without deep knowledge of the associated technology. I had fun making this app and using Rails. Can't wait to use it again!
+
+
 # Ruby on Rails Tutorial sample application
 
 This is the sample application for
